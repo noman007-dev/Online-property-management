@@ -1,0 +1,579 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\abir ahosan ratul\\downloads\\online-property-management-c--main\\final\\windowsformsapp3\\windowsformsapp3\\adminmanageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminmanageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|c:\\users\\abir ahosan ratul\\downloads\\online-property-management-c--main\\final\\windowsformsapp3\\windowsformsapp3\\wishlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\wishlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\wishlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\wishlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminmanageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminmanageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyeruserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyeruserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\selleruserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\selleruserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\sellerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\sellerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\selleraddpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\selleraddpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\sellerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\sellerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminuserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminuserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminuserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminuserguideform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\admintransectionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\admintransectionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\admintransectionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\admintransectionhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminmanagepropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminmanagepropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminupdatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminupdatecategoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\adminadduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\adminadduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\sellermassageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\sellermassageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\sellerhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\sellerhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\viewpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\viewpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyerhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyerhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyerhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyerhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyermessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyermessageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\viewpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\viewpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\sellerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\sellerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\sellerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\sellerprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\selleraddpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\selleraddpropertyform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\windowsformsapp3\\buyerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DF05E4-4364-4BD6-80F4-60C5CE6B5133}|WindowsFormsApp3\\WindowsFormsApp3.csproj|solutionrelative:windowsformsapp3\\buyerhomepageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminManageUsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminManageUsersForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminManageUsersForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\AdminManageUsersForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:41:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WishlistForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\WishlistForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\WishlistForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\WishlistForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\WishlistForm.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAqwJ8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:42:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SellerProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerProfileForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:52:18.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuyerUserGuideForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerUserGuideForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerUserGuideForm.cs",
+              "ToolTip": "C:\\Users\\Noman\\Desktop\\final 5\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerUserGuideForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Noman\\Desktop\\final 5\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerUserGuideForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminManageUsersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminManageUsersForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminManageUsersForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp3\\AdminManageUsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:05:21.307Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\DbConnection.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\DbConnection.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\DbConnection.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\DbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:10:53.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyerHomePageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHomePageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerHomePageForm.cs",
+              "ToolTip": "C:\\Users\\Noman\\Desktop\\final 5\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHomePageForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Noman\\Desktop\\final 5\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHomePageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:43.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WishlistForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\WishlistForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\WishlistForm.cs",
+              "ToolTip": "C:\\Users\\Noman\\Desktop\\final 5\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\WishlistForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Noman\\Desktop\\final 5\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\WishlistForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:30:17.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellerHomePageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerHomePageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerHomePageForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerHomePageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T04:52:12.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminTransectionHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminTransectionHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminTransectionHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminTransectionHistoryForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\AdminTransectionHistoryForm.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAUwPUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:18:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminUserGuideForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminUserGuideForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminUserGuideForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminUserGuideForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:22:45.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminUserGuideForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminUserGuideForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminUserGuideForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminUserGuideForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\AdminUserGuideForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T18:23:02.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SellerUserGuideForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerUserGuideForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerUserGuideForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerUserGuideForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SellerAddPropertyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerAddPropertyForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerAddPropertyForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerAddPropertyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:58:37.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminManagePropertyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminManagePropertyForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminManagePropertyForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminManagePropertyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:04:36.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminTransectionHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminTransectionHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminTransectionHistoryForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminTransectionHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:08:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\Properties\\Resources.resx",
+              "RelativeToolTip": "WindowsFormsApp3\\Properties\\Resources.resx",
+              "ViewState": "AgIAAKsAAAAAAAAAAADwv70AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-17T08:17:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BuyerProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerProfileForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:41.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminAddUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminAddUserForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminAddUserForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminAddUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:02:50.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminProfileForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:07:35.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminUpdateCategoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminUpdateCategoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminUpdateCategoryForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminUpdateCategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:08:45.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BuyerHistoryForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerHistoryForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHistoryForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\BuyerHistoryForm.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T08:01:19.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SellerMassageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerMassageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerMassageForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerMassageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:35:48.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminHomePageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminHomePageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\AdminHomePageForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\AdminHomePageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:33:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BuyerHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerHistoryForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:33:39.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotificationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\NotificationForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\NotificationForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\NotificationForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:32:04.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ViewPropertyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\ViewPropertyForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\ViewPropertyForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\ViewPropertyForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\ViewPropertyForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:10:33.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SellerHistoryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerHistoryForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerHistoryForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerHistoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:40.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BuyerMessageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerMessageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerMessageForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerMessageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:59:00.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SellerAddPropertyForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerAddPropertyForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerAddPropertyForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerAddPropertyForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\SellerAddPropertyForm.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAUwKwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T20:59:19.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NotificationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\NotificationForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\NotificationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:29.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Noman\\Desktop\\latest 7\\maybe final\\WindowsFormsApp3\\WindowsFormsApp3\\LoginForm.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Noman\\Desktop\\latest 7\\maybe final\\WindowsFormsApp3\\WindowsFormsApp3\\LoginForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:01:32.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SellerProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerProfileForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerProfileForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerProfileForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\SellerProfileForm.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAswMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:07:55.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SellerHomePageForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerHomePageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\SellerHomePageForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\SellerHomePageForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\SellerHomePageForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:09:41.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ViewPropertyForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\ViewPropertyForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\ViewPropertyForm.cs",
+              "ToolTip": "D:\\C#\\final\\final\\WindowsFormsApp3\\WindowsFormsApp3\\ViewPropertyForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:58:51.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\LoginForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\LoginForm.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:04:45.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BuyerHomePageForm.cs",
+              "DocumentMoniker": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHomePageForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp3\\BuyerHomePageForm.cs",
+              "ToolTip": "C:\\Users\\Abir Ahosan Ratul\\Downloads\\Online-property-management-C--main\\final\\WindowsFormsApp3\\WindowsFormsApp3\\BuyerHomePageForm.cs",
+              "RelativeToolTip": "WindowsFormsApp3\\BuyerHomePageForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADwvzUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T19:59:07.015Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
